@@ -1,0 +1,10 @@
+19:23:52.582 [main] INFO  Factory.BaseClass - ***The details of first course is printed***
+19:23:59.095 [main] INFO  Factory.BaseClass - ***The details of the second course is printed***
+19:24:14.639 [main] INFO  Factory.BaseClass - ***The user successfully clicked show more***
+19:25:05.414 [main] INFO  Factory.BaseClass - ***Successfully displayed the languages***
+19:25:14.193 [main] INFO  Factory.BaseClass - ***Successfully displayed the level***
+19:25:35.525 [main] INFO  Factory.BaseClass - ***The user clicked on the Enterprise Click***
+19:25:40.141 [main] INFO  Factory.BaseClass - ***The user clicked on the Campus Click***
+19:25:40.864 [main] INFO  Factory.BaseClass - ***Successfully scrolled***
+19:25:43.642 [main] INFO  Factory.BaseClass - ***Successfully entered the details in the form***
+19:25:44.275 [main] INFO  Factory.BaseClass - ***Successfully printed the error message***

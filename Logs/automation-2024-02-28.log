@@ -1,0 +1,53 @@
+16:09:54.847 [main] INFO  TestBase.BaseClass - -----Successfully entered the text-----
+16:10:44.270 [main] INFO  TestBase.BaseClass - -----Successfully displayed the language details-----
+16:10:44.459 [main] INFO  TestBase.BaseClass - -----Successfully clicked on the close button-----
+16:10:52.976 [main] INFO  TestBase.BaseClass - -----Successfully displayed the level details-----
+16:11:08.900 [main] INFO  TestBase.BaseClass - -----Scrolled to the For Enterprise-----
+16:11:12.427 [main] INFO  TestBase.BaseClass - -----Clicked on the Coursera for campus-----
+16:11:13.986 [main] INFO  TestBase.BaseClass - -----Scrolled to the form-----
+16:11:14.362 [main] INFO  TestBase.BaseClass - -----Entered the value of the name-----
+16:11:14.637 [main] INFO  TestBase.BaseClass - -----Entered the value of email and Phone Number -----
+16:11:15.106 [main] INFO  TestBase.BaseClass - -----Entered the value for the institution-----
+16:11:15.581 [main] INFO  TestBase.BaseClass - -----Entered the values for the job details-----
+16:11:15.905 [main] INFO  TestBase.BaseClass - -----Entered the value for country-----
+16:11:19.080 [main] INFO  TestBase.BaseClass - -----Clicked on the submit button-----
+16:11:19.238 [main] INFO  TestBase.BaseClass - -----Successfully captured the Error Message-----
+16:11:45.553 [main] INFO  TestBase.BaseClass - -----The search button is clicked successfully-----
+16:11:48.217 [main] INFO  TestBase.BaseClass - -----Successfully scrolled to the top page-----
+16:11:52.774 [main] INFO  TestBase.BaseClass - -----Successfully captured the details of the first Course-----
+16:12:00.045 [main] INFO  TestBase.BaseClass - -----Successfully captured the details of the second Course-----
+16:12:03.581 [main] INFO  TestBase.BaseClass - -----Successfully entered the text-----
+16:12:52.812 [main] INFO  TestBase.BaseClass - -----Successfully displayed the language details-----
+16:12:53.025 [main] INFO  TestBase.BaseClass - -----Successfully clicked on the close button-----
+16:13:01.506 [main] INFO  TestBase.BaseClass - -----Successfully displayed the level details-----
+16:13:20.428 [main] INFO  TestBase.BaseClass - -----Scrolled to the For Enterprise-----
+16:13:27.650 [main] INFO  TestBase.BaseClass - -----Clicked on the Coursera for campus-----
+16:13:27.923 [main] INFO  TestBase.BaseClass - -----Scrolled to the form-----
+16:13:28.248 [main] INFO  TestBase.BaseClass - -----Entered the value of the name-----
+16:13:28.527 [main] INFO  TestBase.BaseClass - -----Entered the value of email and Phone Number -----
+16:13:28.885 [main] INFO  TestBase.BaseClass - -----Entered the value for the institution-----
+16:13:29.380 [main] INFO  TestBase.BaseClass - -----Entered the values for the job details-----
+16:13:29.659 [main] INFO  TestBase.BaseClass - -----Entered the value for country-----
+16:13:32.825 [main] INFO  TestBase.BaseClass - -----Clicked on the submit button-----
+16:13:33.001 [main] INFO  TestBase.BaseClass - -----Successfully captured the Error Message-----
+16:17:08.455 [main] INFO  Factory.BaseClass - ***The user clicked on the search button***
+16:17:09.052 [main] INFO  Factory.BaseClass - ***The user clicked on the english and begginer***
+16:17:15.276 [main] INFO  Factory.BaseClass - ***The details of first course is printed***
+16:17:20.465 [main] INFO  Factory.BaseClass - ***The details of the second course is printed***
+16:17:38.493 [main] INFO  Factory.BaseClass - ***The user successfully clicked show more***
+16:18:28.036 [main] INFO  Factory.BaseClass - ***Successfully displayed the languages***
+16:18:36.485 [main] INFO  Factory.BaseClass - ***Successfully displayed the level***
+16:18:53.550 [main] INFO  Factory.BaseClass - ***The user clicked on the Enterprise Click***
+16:18:58.039 [main] INFO  Factory.BaseClass - ***The user clicked on the Campus Click***
+16:18:58.422 [main] INFO  Factory.BaseClass - ***Successfully scrolled***
+16:18:59.933 [main] INFO  Factory.BaseClass - ***Successfully entered the details in the form***
+16:19:00.233 [main] INFO  Factory.BaseClass - ***Successfully printed the error message***
+17:16:47.780 [main] INFO  TestBase.BaseClass - -----The search button is clicked successfully-----
+17:16:52.100 [main] INFO  TestBase.BaseClass - -----Successfully scrolled to the top page-----
+17:16:58.567 [main] INFO  TestBase.BaseClass - -----Successfully captured the details of the first Course-----
+17:17:04.351 [main] INFO  TestBase.BaseClass - -----Successfully captured the details of the second Course-----
+17:17:08.736 [main] INFO  TestBase.BaseClass - -----Successfully entered the text-----
+17:17:59.513 [main] INFO  TestBase.BaseClass - -----Successfully displayed the language details-----
+17:17:59.861 [main] INFO  TestBase.BaseClass - -----Successfully clicked on the close button-----
+17:18:08.913 [main] INFO  TestBase.BaseClass - -----Successfully displayed the level details-----
+17:18:24.478 [main] INFO  TestBase.BaseClass - -----Scrolled to the For Enterprise-----

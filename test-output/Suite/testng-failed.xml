@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="Utilities.ExtentReportManager"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="os" value="windows"/>
+    <parameter name="browser" value="chrome"/>
+    <groups>
+      <run>
+        <include name="smoke"/>
+        <include name="regression"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="TestCases.TC002_LanguageLearning">
+        <methods>
+          <include name="getLevel"/>
+          <include name="closeButton"/>
+          <include name="setUp1"/>
+          <include name="getLanguages"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestCases.TC002_LanguageLearning -->
+      <class name="TestCases.TC001_IdentifyCourses">
+        <methods>
+          <include name="setUp1"/>
+          <include name="verifyCourse"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestCases.TC001_IdentifyCourses -->
+      <class name="TestCases.TC003_ForEnterprise">
+        <methods>
+          <include name="submitButton"/>
+          <include name="errorMessage"/>
+          <include name="setUp1"/>
+          <include name="personalDetails"/>
+          <include name="countryDetails"/>
+          <include name="clickEnterprise"/>
+          <include name="fillName"/>
+          <include name="clickCoursera"/>
+          <include name="scrollToForm"/>
+          <include name="jobDetails"/>
+          <include name="homepage"/>
+          <include name="institution"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestCases.TC003_ForEnterprise -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

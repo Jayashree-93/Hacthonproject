@@ -1,0 +1,53 @@
+17:18:32.243 [main] INFO  TestBase.BaseClass - -----Clicked on the Coursera for campus-----
+17:18:33.199 [main] INFO  TestBase.BaseClass - -----Scrolled to the form-----
+17:18:33.882 [main] INFO  TestBase.BaseClass - -----Entered the value of the name-----
+17:18:34.506 [main] INFO  TestBase.BaseClass - -----Entered the value of email and Phone Number -----
+17:18:35.553 [main] INFO  TestBase.BaseClass - -----Entered the value for the institution-----
+17:18:36.941 [main] INFO  TestBase.BaseClass - -----Entered the values for the job details-----
+17:18:37.611 [main] INFO  TestBase.BaseClass - -----Entered the value for country-----
+17:18:40.887 [main] INFO  TestBase.BaseClass - -----Clicked on the submit button-----
+17:18:41.358 [main] INFO  TestBase.BaseClass - -----Successfully captured the Error Message-----
+10:05:32.275 [main] INFO  TestBase.BaseClass - -----The search button is clicked successfully-----
+10:05:37.319 [main] INFO  TestBase.BaseClass - -----Successfully scrolled to the top page-----
+10:06:55.542 [main] INFO  TestBase.BaseClass - -----Successfully entered the text-----
+10:07:46.989 [main] INFO  TestBase.BaseClass - -----Successfully displayed the language details-----
+10:07:47.336 [main] INFO  TestBase.BaseClass - -----Successfully clicked on the close button-----
+10:07:56.295 [main] INFO  TestBase.BaseClass - -----Successfully displayed the level details-----
+10:08:50.815 [main] INFO  TestBase.BaseClass - -----Scrolled to the For Enterprise-----
+10:08:54.934 [main] INFO  TestBase.BaseClass - -----Clicked on the Coursera for campus-----
+10:09:17.019 [main] INFO  TestBase.BaseClass - -----Scrolled to the form-----
+10:09:18.371 [main] INFO  TestBase.BaseClass - -----Entered the value of the name-----
+10:09:19.196 [main] INFO  TestBase.BaseClass - -----Entered the value of email and Phone Number -----
+10:09:20.305 [main] INFO  TestBase.BaseClass - -----Entered the value for the institution-----
+10:09:21.583 [main] INFO  TestBase.BaseClass - -----Entered the values for the job details-----
+10:09:22.344 [main] INFO  TestBase.BaseClass - -----Entered the value for country-----
+10:09:25.743 [main] INFO  TestBase.BaseClass - -----Clicked on the submit button-----
+10:09:26.443 [main] INFO  TestBase.BaseClass - -----Successfully captured the Error Message-----
+10:12:49.409 [main] INFO  TestBase.BaseClass - -----The search button is clicked successfully-----
+10:12:57.809 [main] INFO  TestBase.BaseClass - -----Successfully scrolled to the top page-----
+10:13:02.371 [main] INFO  TestBase.BaseClass - -----Successfully entered the text-----
+10:13:51.366 [main] INFO  TestBase.BaseClass - -----Successfully displayed the language details-----
+10:13:51.759 [main] INFO  TestBase.BaseClass - -----Successfully clicked on the close button-----
+10:14:00.578 [main] INFO  TestBase.BaseClass - -----Successfully displayed the level details-----
+10:14:58.016 [main] INFO  TestBase.BaseClass - -----Scrolled to the For Enterprise-----
+10:15:24.818 [main] INFO  TestBase.BaseClass - -----Clicked on the Coursera for campus-----
+10:15:25.358 [main] INFO  TestBase.BaseClass - -----Scrolled to the form-----
+10:15:26.053 [main] INFO  TestBase.BaseClass - -----Entered the value of the name-----
+10:15:26.589 [main] INFO  TestBase.BaseClass - -----Entered the value of email and Phone Number -----
+10:15:27.391 [main] INFO  TestBase.BaseClass - -----Entered the value for the institution-----
+10:15:28.218 [main] INFO  TestBase.BaseClass - -----Entered the values for the job details-----
+10:15:28.754 [main] INFO  TestBase.BaseClass - -----Entered the value for country-----
+10:15:32.066 [main] INFO  TestBase.BaseClass - -----Clicked on the submit button-----
+10:15:32.364 [main] INFO  TestBase.BaseClass - -----Successfully captured the Error Message-----
+10:20:20.196 [main] INFO  TestBase.BaseClass - -----The search button is clicked successfully-----
+10:20:23.606 [main] INFO  TestBase.BaseClass - -----Successfully scrolled to the top page-----
+10:21:38.677 [main] INFO  TestBase.BaseClass - -----Successfully entered the text-----
+10:29:40.454 [main] INFO  TestBase.BaseClass - -----The search button is clicked successfully-----
+10:29:43.541 [main] INFO  TestBase.BaseClass - -----Successfully scrolled to the top page-----
+10:30:51.008 [main] INFO  TestBase.BaseClass - -----Successfully entered the text-----
+10:45:35.753 [main] INFO  TestBase.BaseClass - -----The search button is clicked successfully-----
+10:45:38.507 [main] INFO  TestBase.BaseClass - -----Successfully scrolled to the top page-----
+10:46:03.825 [main] INFO  TestBase.BaseClass - -----Successfully captured the details of the first Course-----
+10:46:29.609 [main] INFO  TestBase.BaseClass - -----Successfully captured the details of the second Course-----
+10:49:04.840 [main] INFO  TestBase.BaseClass - -----The search button is clicked successfully-----
+10:49:07.691 [main] INFO  TestBase.BaseClass - -----Successfully scrolled to the top page-----
